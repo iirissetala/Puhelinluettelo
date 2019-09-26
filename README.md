@@ -1,4 +1,7 @@
+Sovellus pyörii herokussa osoitteessa
 https://guarded-badlands-07768.herokuapp.com
+
+Kaikki yhteystiedot ovat keksittyjä eivätkä todellisia henkilöitä tai puhelinnumeroita!
 
 /api/persons - kaikki henkilöt
 /api/persons/:id - yksittäinen henkilö
